@@ -5,6 +5,6 @@ Repository to hold my learned algorithms, tutorials, and notes about pieces of c
 - Chunky Monkey
 - Mutation (Javascript)
 - Falsy Bouncer
-- Where Do I Belong?
+- **Where Do I Belong?** - Take an array and sort it from lowest to highest. Then take a number, and find where it belongs in the array. Return the index.
+- **Caesar's Cipher** - Decode a message that was encoded with the ROT13 cipher. Return the message.
 
-Take an array and sort it from lowest to highest. Then take a number, and find where it belongs in the array. Return the index.
